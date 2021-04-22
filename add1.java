@@ -4,8 +4,10 @@ public class add1 {
     public static void main(String args[]) {
 
     System.out.println("Anmisa here");
-//functions with parameters and return type//
-   
+
+    //code changes to main directly
+      //functions with parameters and return type//
+
         System.out.println("Result is "+add(1094,34));
         System.out.println("Subresult is "+sub(123,12));
         printName();
