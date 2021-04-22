@@ -6,8 +6,8 @@ public class add1 {
     System.out.println("Anmisa here");
 
     //code changes to main directly
-        //int result =
-        // int subresult =
+      //functions with parameters and return type//
+
         System.out.println("Result is "+add(1094,34));
         System.out.println("Subresult is "+sub(123,12));
         printName();
