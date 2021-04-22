@@ -5,7 +5,8 @@ public class add1 {
 
     System.out.println("Anmisa here");
 
-    //int result =
+    //code changes to main directly
+        //int result =
         // int subresult =
         System.out.println("Result is "+add(1094,34));
         System.out.println("Subresult is "+sub(123,12));
